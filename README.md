@@ -1,7 +1,12 @@
 # nodejs-typescript
 
-### Run
+## Run
 
-> yarn
-> yarn tsc
+### Install dependencies
+$ yarn
+
+### Convert server.ts to server.js
+$ yarn tsc
+
+### Run server
 > node dist/server.ts
