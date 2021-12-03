@@ -3,10 +3,10 @@
 ## Run
 
 ### Install dependencies
-$ yarn
+> yarn
 
 ### Convert server.ts to server.js
-$ yarn tsc
+> yarn tsc
 
 ### Run server
 > node dist/server.ts
