@@ -1,6 +1,6 @@
 # nodejs-typescript
 
-## Run
+## 🚀 Run
 
 ### Install dependencies
 > yarn
